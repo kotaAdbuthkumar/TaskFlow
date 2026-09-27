@@ -176,3 +176,12 @@ CLIENT_URL=http://localhost:5173
 - **Light & Dark Mode**: Persistent toggle via top navigation bar and account settings.
 - **Keyboard Navigation**: Modal dialogues support `Esc` light dismiss and outside backdrop dismissal.
 - **Responsive Layout**: Collapsible sidebar on desktop and full off-canvas drawer on mobile screens.
+
+---
+
+## 📄 License & Author
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+Copyright (c) 2026 **Kota Adbuth kumar**
+

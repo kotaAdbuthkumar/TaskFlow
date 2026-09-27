@@ -183,7 +183,7 @@ const LandingPage = ({ onNavigate }) => {
 
       {/* Footer */}
       <footer className="mt-auto py-8 border-t border-slate-200 dark:border-slate-800 text-center text-xs text-slate-600 dark:text-slate-400">
-        TaskFlow – Professional Task Management System &copy; {new Date().getFullYear()}
+        TaskFlow – Professional Task Management System &copy; {new Date().getFullYear()} Kota Adbuth kumar. All rights reserved.
       </footer>
     </div>
   );
